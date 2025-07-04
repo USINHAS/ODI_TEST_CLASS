@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<SunopsisExport>
+
 <Admin RepositoryVersion="05.02.02.09" IsLegacyIdCompatible="false" />
 <Encryption algorithm="AES" keyLength="128" exportKeyHash="Vq6i8mF9RIUTlGUuMsjKKo7osptkKBGnCuXd+ozrOwM=" keyVect="VLFG18HxR28IDr7vZOQK4Q==" exportKeySalt="5d871bb5-d8be-44ac-a055-2eea555986dd" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpMapping">
