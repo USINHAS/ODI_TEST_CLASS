@@ -4,7 +4,7 @@
 <Encryption algorithm="AES" keyLength="128" exportKeyHash="Vq6i8mF9RIUTlGUuMsjKKo7osptkKBGnCuXd+ozrOwM=" keyVect="VLFG18HxR28IDr7vZOQK4Q==" exportKeySalt="5d871bb5-d8be-44ac-a055-2eea555986dd" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpMapping">
 
-<Field name="BusinessName" type="java.lang.String">null</Field>
+<Field name="UtkarshMan" type="java.lang.String">null</Field>
 	<Field name="Descript" type="java.lang.String">null</Field>
 	<Field name="Description" type="java.lang.String">null</Field>
 	<Field name="ExtVersion" type="java.lang.String">null</Field>
